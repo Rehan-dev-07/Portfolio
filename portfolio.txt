@@ -1,0 +1,80 @@
+# Verified Portfolio Data: Ishaneswar Negi
+# Sourced from profile.pdf, academic records, and verified projects
+
+Candidate Name: Ishaneswar Negi
+Professional Role: Aspiring Software Engineer | B.Tech 1st Year (AI & ML)
+Location: India
+Availability: Open for Software Engineering Internships & Collaborative Technical Projects
+
+Contact Information:
+- Email: rehannegi27@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ishaneswar-negi-473619379
+
+Core Value Proposition:
+"I build software and explore intelligent technologies that solve real-world problems."
+
+Supporting Narrative:
+"Focused on building web applications and exploring AI-powered solutions while continuously learning through new challenges. Grounded in core low-level computing and algorithmic problem solving with active focus on autonomous systems."
+
+Technical Taxonomy:
+1. Core Programming Languages:
+   - C (Low-level systems, memory pointers, data structures)
+   - Python (AI/ML workflows, automation, Pygame simulation)
+   - HTML5 & CSS3 (Semantic markup, technical layout architectures, CSS custom properties)
+   - JavaScript (ES6+, DOM interfaces, React application logic)
+2. Intelligent Technologies & AI/ML:
+   - Autonomous Agents & Decision-Making
+   - Machine Learning Fundamentals & Neuroevolution
+   - Neural Networks & Feedback Simulation
+3. Tools & Engineering Environment:
+   - Git & GitHub (Version control, technical collaboration)
+   - VS Code (Development workflows, debugging)
+   - Vite (High-performance build tooling)
+   - Windows PowerShell & Linux Command Line
+
+Verified Projects:
+1. Flappy Bird AI (Autonomous Agent with Neuroevolution & Reinforcement Learning)
+   - Architecture: Autonomous decision-making system using Python and Pygame.
+   - Engineering Scope: Implemented real-time environment simulation where autonomous agents evaluate pipe gap coordinates and velocity to execute dynamic flap decisions.
+   - Technologies: Python, Pygame, Neural Network / Neuroevolution Algorithms.
+   - Outcome: Agents evolve from erratic maneuvers to continuous, perfect obstacle avoidance through iterative reward feedback.
+2. Apex Engineering Portfolio Interface
+   - Architecture: Precision software profile built using React 19, Vite, and Pure Vanilla CSS design tokens.
+   - Engineering Scope: Engineered with strict 0px geometry, technical blueprint hierarchy, 12-column fluid grid, and WCAG AA 4.5:1 accessible color contrast. Zero third-party CSS runtime dependencies.
+   - Technologies: React 19, Vite, Vanilla CSS3, Semantic HTML5.
+   - Outcome: Fast, accessible technical interface with instant loading, single-thumb mobile CTA reachability, and direct communication integrations.
+3. Algorithmic Computing & Data Structures Lab
+   - Architecture: Suite of low-level algorithms and data structures implemented in C.
+   - Engineering Scope: Explored dynamic memory allocation, pointer manipulation, sorting and search heuristics, and algorithmic efficiency.
+   - Technologies: C, GCC, Data Structures, Memory Management.
+   - Outcome: Solidified low-level systems foundation informing higher-level AI and web architecture.
+
+Academic Education:
+1. GIET University Gunupur
+   - Program: Bachelor of Technology (B.Tech) — Computer Software Engineering (AI & ML)
+   - Timeline: July 2025 – July 2029
+   - Focus: Software engineering fundamentals, intelligent systems, data structures, discrete mathematics.
+2. Pragati Science Higher Secondary School, Bhawanipatna, Kalahandi, Odisha
+   - Program: Higher Secondary Education (12th Science)
+3. Saraswati Vidhya Mandir
+   - Program: Secondary School Certificate (10th)
+
+Verified Achievements & Certifications:
+1. Hedera Certified Developer Associate (HCDA)
+   - Issuer: Hedera Hashgraph
+   - Domain: Distributed ledger technology, smart contract integration, and consensus service.
+2. Hedera Certified Foundation (HCF)
+   - Issuer: Hedera Hashgraph
+   - Domain: Hashgraph fundamentals, token services, and decentralized networks.
+3. TCS iON Yuva AI Certification
+   - Issuer: Tata Consultancy Services (TCS iON)
+   - Domain: Artificial Intelligence fundamentals, cognitive systems, and data analytics.
+4. Deloitte Australia — Cyber Security Job Simulation
+   - Issuer: Deloitte / Forage
+   - Domain: Security analysis, threat modeling, and access control governance.
+5. Deloitte Australia — Data Analytics Job Simulation
+   - Issuer: Deloitte / Forage
+   - Domain: Data exploration, telemetry analysis, and statistical visualization.
+6. Skyscanner — Front-End Software Engineering Job Simulation
+   - Issuer: Skyscanner / Forage
+   - Domain: Responsive component engineering, accessibility standards, and web performance.
