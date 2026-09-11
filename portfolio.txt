@@ -2,7 +2,7 @@
 # Sourced from profile.pdf, academic records, and verified projects
 
 Candidate Name: Ishaneswar Negi
-Professional Role: Aspiring Software Engineer | B.Tech 1st Year (AI & ML)
+Professional Role: Aspiring Software Engineer | B.Tech 2nd Year (AI & ML)
 Location: India
 Availability: Open for Software Engineering Internships & Collaborative Technical Projects
 
