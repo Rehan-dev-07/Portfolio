@@ -1,6 +1,6 @@
 "use client";
 
-import { CinematicFooter } from "@/components/ui/motion-footer";
+import { CinematicFooter } from "./motion-footer";
 
 export default function Demo() {
   return (

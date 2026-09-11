@@ -49,7 +49,7 @@ export default function App() {
                 Ishaneswar Negi
               </h1>
               <div className="hero-role">
-                Aspiring Software Engineer &bull; B.Tech 1st Year (AI &amp; ML)
+                Aspiring Software Engineer &bull; B.Tech 2nd Year (AI &amp; ML)
               </div>
             </div>
 
@@ -104,7 +104,7 @@ export default function App() {
           <div className="about-grid">
             <div className="about-narrative">
               <p>
-                I am a first-year Computer Software Engineering student specializing in <strong>Artificial Intelligence &amp; Machine Learning</strong> at <strong>GIET University Gunupur</strong>. My technical journey began with core algorithmic programming in <strong>C</strong>, understanding how memory, pointers, and computational architectures operate under the hood.
+                I am a second-year Computer Software Engineering student specializing in <strong>Artificial Intelligence &amp; Machine Learning</strong> at <strong>GIET University Gunupur</strong>. My technical journey began with core algorithmic programming in <strong>C</strong>, understanding how memory, pointers, and computational architectures operate under the hood.
               </p>
               <p>
                 From low-level systems, I expanded into <strong>Python</strong> for intelligent algorithms, autonomous agents, and simulation environments, alongside modern <strong>Web Development</strong> (HTML5, CSS3, JavaScript, React) to engineer accessible, high-performance interfaces.

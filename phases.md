@@ -81,7 +81,7 @@ lifecycle:
 - **Objective**: Replace all wireframe placeholder blocks strictly with verified personal and technical data sourced from [portfolio.txt](file:///c:/Users/ishan/Desktop/Portfolio/portfolio.txt).
 - **Scope & Deliverables**:
   - Populated candidate's authentic information strictly from [portfolio.txt](file:///c:/Users/ishan/Desktop/Portfolio/portfolio.txt):
-    - **Hero**: Name (Ishaneswar Negi), professional role (Aspiring Software Engineer / B.Tech 1st Year), and focus statement.
+    - **Hero**: Name (Ishaneswar Negi), professional role (Aspiring Software Engineer / B.Tech 2nd Year), and focus statement.
     - **About**: Background in low-level systems (C), intelligent technologies (Python), and web engineering, structured around 4 core philosophy pillars.
     - **Skills**: Verified proficiencies in C, Python, HTML5/CSS3, JavaScript, AI & ML fundamentals, and engineering tools.
     - **Projects**: Real projects including Autonomous Flappy Bird AI Agent, Apex Engineering Portfolio, and Algorithmic C Systems.
